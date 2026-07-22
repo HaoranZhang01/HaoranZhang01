@@ -32,13 +32,12 @@
 
 ## 🚀 Featured Projects
 
-> New data analytics projects will be published here as they are completed.
 
 | Project | Focus | Tools | Project Link |
 |---|---|---|---|
-| Healthcare Data Analysis | Healthcare outcomes and operational performance | Python, SQL, Tableau | Coming soon |
-| Financial Risk Analysis | Financial performance and risk modeling | Python, Excel, SQL | Coming soon |
-| Marketing & User Growth Analysis | Customer behavior, conversion, and retention | SQL, Python, Tableau | Coming soon |
+| Healthcare Data Analysis | Healthcare outcomes and operational performance | Python, SQL, Tableau | link for project (I do not have it now) |
+| Financial Risk Analysis | Financial performance and risk modeling | Python, Excel, SQL | link for project (I do not have it now) |
+| Marketing & User Growth Analysis | Customer behavior, conversion, and retention | SQL, Python, Tableau | link for project (I do not have it now) |
 
 <!--
 HOW TO PUBLISH A FUTURE PROJECT
@@ -80,7 +79,7 @@ HOW TO PUBLISH A FUTURE PROJECT
 
 ### Cola Wars Strategic Analysis
 
-**Team Member** | *2010.01 – 2022.12*
+**Team Member** | *2022.10 – 2022.12*
 
 - Collaborated with team members to conduct market strategy analysis using sunk-cost research, aiming to improve enterprise profit margins and expand market share.
 - **Key Findings:**
