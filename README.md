@@ -2,6 +2,10 @@
 
 # 👨‍💻 Hello, I'm Haoran Zhang!
 
+<p align="center">
+  <img src="./assets/profile-photo.jpg" alt="Haoran Zhang" width="170">
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=650&lines=Data+Analyst+%7C+Business+Analyst+%7C+BI+Analyst;Healthcare+Data+Analyst+%7C+Financial+%26+Risk+Analyst;Marketing+%7C+User+Growth+%7C+Operations+Analyst)](https://git.io/typing-svg)
 
 <p align="center">
