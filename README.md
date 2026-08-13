@@ -39,6 +39,7 @@
 
 | Project | Focus | Tools | Project Link |
 |---|---|---|---|
+| **Data Analyst Portfolio** | College Scorecard analysis, business commentary, and professional experience | Excel, Statistics, Regression | [View Portfolio](https://haoranzhang01.github.io/HaoranZhang01/) |
 | Healthcare Data Analysis | Healthcare outcomes and operational performance | Python, SQL, Tableau | link for project (I do not have it now) |
 | Financial Risk Analysis | Financial performance and risk modeling | Python, Excel, SQL | link for project (I do not have it now) |
 | Marketing & User Growth Analysis | Customer behavior, conversion, and retention | SQL, Python, Tableau | link for project (I do not have it now) |
